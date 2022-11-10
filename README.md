@@ -16,7 +16,7 @@ Estudando a ferramenta e usando as abordagens para criar as APIs <strong>Schema 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Typescript
+- TypeScript
 - [GraphQL](https://graphql.org/)
 - [Node e NPM](https://nodejs.org/)
 - [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
